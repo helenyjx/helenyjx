@@ -5,7 +5,7 @@
    
 3. 🏫  University of Delaware, Newark, DE: Bachelor of Science, Finance (Feb. 2019-May 2022) 
 
-## 🛠 Technical Skills
+## 🛠 Technical Skills:
 
 Languages: Python 🐍, R 📊, SQL 🛢, Rust 🦀, Bash 🐚, JavaScript 🌐, Wolfram & Mathematica Language 📐
 
@@ -13,7 +13,22 @@ Tools: Tableau 📊, Access 🗄, Excel 📈, Docker Hub 🐳, AWS ☁️, Azure
 
 Libraries/Frameworks: NumPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, PySpark
 
-Courses: Machine Learning 🤖, Data Engineering ⚙️, Cloud Scale Data Analysis ☁️, Deep Reinforcement Learning 🕹, Natural Language Processing 🗨️, Financial Data Modeling 💰, and more!
+## 📚 Courses
+* 🤖 Machine Learning 
+* ⚙️ Data Engineering
+* ☁️ Data Analysis Scale in Cloud
+* 🕹 Deep Reinforcement Learning Applications
+* 🗨️ Natural Language Processing
+* 📊 Modeling and Representation of Data
+* 💰 Algorithmic Trading with Financial Data and Modeling
+* 📈 Statistical Analysis
+* 📢 Business Analytics
+* ➕ Calculus
+* 🎲 Probability
+* 🧠 Quantitative Economics
+* 💵 Finance
+* 🎯 Marketing
+* 🧾 Accounting
 
 ## 👨‍💻 Data Science Projects: 
 💹 All of my projects are available at: https://github.com/helenyjx
