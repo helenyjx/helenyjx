@@ -1,5 +1,6 @@
 # 👋 Hi all, This is Jiaxin Ying (Helen)!
 
+![IMG_0856](https://github.com/helenyjx/helenyjx/assets/112274822/ee0cd2eb-ba70-4ff3-8b65-17e93c96e3ba)
 
 ## 🎓 Education:
 
