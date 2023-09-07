@@ -30,7 +30,7 @@ Libraries/Frameworks: NumPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, PySpark
 * 🎯 Marketing
 * 🧾 Accounting
 
-## 👨‍💻 Data Science Projects: 
+## ✍️ Data Science Projects: 
 💹 All of my projects are available at: https://github.com/helenyjx
 
 🚀 Wikipedia AI Bot: Information retrieval made interactive: https://github.com/helenyjx/Wikipedia-AI-Bot-Ultimate-Knowledge-Companion 
@@ -45,13 +45,15 @@ Libraries/Frameworks: NumPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, PySpark
 2. 📞 Phone: 302-252-7432
    
 3. 📄 LinkedIn: https://www.linkedin.com/in/jiaxin-ying-helen/
+   
+4. 💡 wordpress： https://helenyjx.wordpress.com/author/helenyjx/
 
-## 📈 Professional Experience:
+## 💼 Professional Experience:
 1. Data Analyst & Scientist Intern at Allied Millennial Partners, LLC. New York, USA (May-Aug 2023)
 2. Teaching Assistant of the Data Engineering at Duke University. North Carolina, USA (Aug 2023-Present)
 3. Co-founder & Data Scientist at IPFStudy, LLC. North Carolina, USA (Feb 2023-Present)
 4. Assistant Investment & Business Analyst at ZheShang Securities Co. Ltd. Zhejiang, CN (Dec 2018-Jan 2019)
 
-### Languages:
+### 🗣️ Languages:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helenyjx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
