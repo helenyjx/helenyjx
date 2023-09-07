@@ -1,104 +1,34 @@
-### Noah Gift 👋
+# 👋 Hi all, This is Jiaxin Ying (Helen)!
 
-What currently keeps me busy is working as an [Executive in Residence at the Duke MIDS (Data Science)](https://www.coursera.org/instructor/noahgift) and Duke AI Product Management program and as a consultant and author in Cloud Computing, Big Data, DevOps, and MLOps. The following visual resume is a good idea to show the kinds of things I have worked on in my life.  I am a Rust Fanatic.
+## 🎓 Education:
+1. 🔭 Duke University, Durham, NC: Master of Science in Interdisciplinary Data Science (Expected: May 2024)
+   
+3. 🏫  University of Delaware, Newark, DE: Bachelor of Science, Finance (Feb. 2019-May 2022) 
 
-![visual](https://noahgift.com/img/noah_gift_visual_resume.jpg)
+## 🛠 Technical Skills:
+1. 🌐 Languages: Python, R, SQL, Rust, Bash, JavaScript, Wolfram & Mathematica
+   
+2. 📊 Data Tools: NumPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, PySpark, LightGBM, RandomForestClassifier, XGBClassifier
+   
+3. 🚀 DevOps & Cloud: Docker Hub, AWS, Azure, Linux, GitHub
+   
+4. 📈 Visualization & Analysis: Tableau, Excel, Access, plotly.express, Altair, Seaborn, ggplot2, plotly
 
-🔭 I’m currently working on or just finished the following things below.
+5. 📄 Office Tools: Word, PowerPoint, Outlook
 
-## 📺 Latest YouTube Videos
+## 📘 Courses: Machine Learning, Data Engineering, Natural Language Processing, Deep Reinforcement Learning Applications, Algorithmic Trading with Financial Data and Modeling, Statistical Analysis, Business Analytics, and more!
 
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCNDfiL0D1LUeKWAkRE1xO5Q?label=YouTube%20Subscribers&style=social)
+## 👨‍💻 All of my projects are available at https://github.com/helenyjx
 
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Security Characteristics and Benefits of Microservices](https://www.youtube.com/watch?v=m2xb8jp4OQc)
-- [Live Coding AI Pair Programming with XCode](https://www.youtube.com/watch?v=ojGg0IqjHHA)
-- [Live Coding AWS CodeWhisperer for AWS](https://www.youtube.com/watch?v=mAbUBpKtw8k)
-- [52 Weeks of AWS: AWS Security Certification-Secure Infrastructure](https://www.youtube.com/watch?v=8KunpG4c2dw)
-- [Live Coding Rust: LLMOps in Rust-Exploring Hugging Face Candle](https://www.youtube.com/watch?v=nM00e8H2WCo)
-- [52 Weeks of AWS](https://www.youtube.com/watch?v=DpAiQt7WkbM)
-- [Live Coding Rust](https://www.youtube.com/watch?v=yqRcMCtMVPI)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
+## 📫 Contact Me:
+1. 🔍 Email: jy362@duke.edu
+   
+2. 📞 Phone: 302-252-7432
+   
+3. 📄 LinkedIn: https://www.linkedin.com/in/jiaxin-ying-helen/
 
-##### MLOps (Specialization:  4 Courses)
-###### Publisher:  Coursera + Duke
-###### Release Date:  1/1/2023
-
-* [MLOps | Machine Learning Operations Specialization](https://www.coursera.org/specializations/mlops-machine-learning-duke)
-* [DevOps, DataOps, MLOps](https://www.coursera.org/learn/devops-dataops-mlops-duke)
-* [MLOps Platforms: Amazon SageMaker and Azure ML](https://www.coursera.org/learn/mlops-aws-azure-duke)
-* [Open Source Platforms for MLOps](https://www.coursera.org/learn/open-source-mlops-platforms-duke)
-* [Python Essentials for MLOps](https://www.coursera.org/learn/python-essentials-mlops-duke)
-
-##### Foundations of Data Engineering (Specialization:  4 Courses)
-###### Publisher:  Coursera + Duke
-###### Release Date:  2/1/2022
-![de-course](https://user-images.githubusercontent.com/58792/160180842-9d84b5e0-3196-4b92-b6fc-947c491c47af.png)
-
-* [Python, Bash and SQL Essentials for Data Engineering Specialization](https://www.coursera.org/specializations/python-bash-sql-data-engineering-duke)
-* [Course1: Python and Pandas for Data Engineering](https://www.coursera.org/learn/python-and-pandas-for-data-engineering-duke?specialization=python-bash-sql-data-engineering-duke)
-* [Course2: Linux and Bash for Data Engineering](https://www.coursera.org/learn/linux-and-bash-for-data-engineering-duke?specialization=python-bash-sql-data-engineering-duke)
-    * [Github Repos for Projects in Course](https://github.com/noahgift/cloud-data-analysis-at-scale#github-repos-for-projects-in-course)   
-* [Course3: Scripting with Python and SQL for Data Engineering](https://www.coursera.org/learn/scripting-with-python-sql-for-data-engineering-duke?specialization=python-bash-sql-data-engineering-duke)
-* [Course4: Web Development and Command-Line Tools in Python for Data Engineering](https://www.coursera.org/learn/web-app-command-line-tools-for-data-engineering-duke?specialization=python-bash-sql-data-engineering-duke)
-
-## AWS Certified Solutions Architect Professional exam (SAP-C01)
-### Publisher:  Linkedin Learning
-#### Release Date:  January, 2021
-
-* [AWS Certified Solutions Architect - Professional (SAP-C01) Cert Prep: 1 Design for Organizational Complexity](https://www.linkedin.com/learning/aws-certified-solutions-architect-professional-sap-c01-cert-prep-1-design-for-organizational-complexity/design-for-organizational-complexity?autoplay=true)
-* [Microsoft Azure Data Engineering (DP-203): 2 Design and Develop Data Processing](https://www.linkedin.com/learning/aws-certified-solutions-architect-professional-sap-c01-cert-prep-2-design-for-new-solutions/introduction-to-domain-2?autoplay=true)
-* [AWS Certified Solutions Architect - Professional (SAP-C01) Cert Prep: 2 Design for New Solutions](https://www.linkedin.com/learning/aws-certified-solutions-architect-professional-sap-c01-cert-prep-3-migration-planning/select-an-appropriate-server-migration-mechanism?autoplay=true)
-
-
-##### AWS w/ C#
-###### Publisher:  O'Reilly
-
-###### Release Date:  2022 (Reinvent 2022 Target)
-
-Working with O'Reilly and AWS to write a book on building solutions on AWS with C#/.NET 6.
-![c#book](https://user-images.githubusercontent.com/58792/167318897-3c749ea4-0ef3-4ee4-998c-3c631257623f.jpg)
-* [Developing on AWS with C#](https://www.amazon.com/Developing-AWS-Comprehensive-Solutions-Platform/dp/1492095877)
-
-
-##### Practical MLOps
-###### Publisher:  O'Reilly
-
-###### Release Date:  2021
-
-![mlops-color](https://user-images.githubusercontent.com/58792/121539559-c6787e80-c9d3-11eb-9f48-5d25924fad25.png)
-* [Purchase Book](https://www.amazon.com/Practical-MLOps-Operationalizing-Machine-Learning/dp/1098103017/)
-* [Read Online](https://learning.oreilly.com/library/view/practical-mlops/9781098103002/)
-* [Source Code](https://github.com/paiml/practical-mlops-book)
-
-##### Cloud Computing (Specialization:  4 Courses)
-###### Publisher:  Coursera + Duke
-###### Release Date:  4/1/2021
-
-Building Cloud Computing Solutions at Scale Specialization
-Launch Your Career in Cloud Computing. Master strategies and tools to become proficient in developing data science and machine learning (MLOps) solutions in the Cloud
-
-###### What You Will Learn
-
-* Build websites involving serverless technology and virtual machines, using the best practices of DevOps
-* Apply Machine Learning Engineering to build a Flask web application that serves out Machine Learning predictions
-* Create Microservices using technologies like Flask and Kubernetes that are continuously deployed to a Cloud platform: AWS, Azure or GCP
-
-###### Courses in Specialization
-
-![cloud-specialization](https://user-images.githubusercontent.com/58792/121041040-650ca180-c780-11eb-956e-8d1ecb134641.png)
-
-* [Take the Specialization](https://www.coursera.org/learn/cloud-computing-foundations-duke?specialization=building-cloud-computing-solutions-at-scale)
-* [Cloud Computing Foundations](https://www.coursera.org/learn/cloud-computing-foundations-duke?specialization=building-cloud-computing-solutions-at-scale)
-* [Cloud Virtualization, Containers and APIs](https://www.coursera.org/learn/cloud-virtualization-containers-api-duke?specialization=building-cloud-computing-solutions-at-scale)
-* [Cloud Data Engineering](https://www.coursera.org/learn/cloud-data-engineering-duke?specialization=building-cloud-computing-solutions-at-scale)
-* [Cloud Machine Learning Engineering and MLOps](https://www.coursera.org/learn/cloud-machine-learning-engineering-mlops-duke?specialization=building-cloud-computing-solutions-at-scale)
-
-
-📫 How to reach me:
-* Linkedin:  [https://www.linkedin.com/in/noahgift/](https://www.linkedin.com/in/noahgift/)
-* Web:  [https://noahgift.com](https://noahgift.com)
-* Pragmatic AI Labs: [https://paiml.com](https://paiml.com)
-* [Subscribe to the Pragmatic AI Labs YouTube Channel (New Content Weekly)](https://www.youtube.com/channel/UCNDfiL0D1LUeKWAkRE1xO5Q)  
-
-⚡ Fun facts: I was as a bouncer in college with former UFC Champion Chuck Liddell.  Early in my career I worked on the [movie Avatar while living in New Zealand](https://www.imdb.com/name/nm2104112/?ref_=fn_al_nm_1).  I used to play basketball with Adam Sandler at lunch when I worked at Sony Imageworks in Los Angeles, CA.
+## 📈 Professional Experience:
+1. Data Analyst & Scientist Intern at Allied Millennial Partners, LLC. 🗽 New York, USA (May-Aug 2023)
+2. Teaching Assistant of the Data Engineering at Duke University 🎓 North Carolina, USA (Aug 2023-Present)
+3. Co-founder & Data Scientist at IPFStudy, LLC. 🚀 North Carolina, USA (Feb 2023-Present)
+4. Assistant Investment & Business Analyst at ZheShang Securities Co. Ltd. 🌐 Zhejiang, CN (Dec 2018-Jan 2019)
