@@ -15,26 +15,13 @@ Libraries/Frameworks: NumPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, PySpark
 
 Courses: Machine Learning 🤖, Data Engineering ⚙️, Cloud Scale Data Analysis ☁️, Deep Reinforcement Learning 🕹, Natural Language Processing 🗨️, Financial Data Modeling 💰, and more!
 
-## 📘 Courses: 
-
-Machine Learning: 🤖
-
-Data Engineering: 🔨
-
-Natural Language Processing: 📝
-
-Deep Reinforcement Learning Applications: 🎮
-
-Algorithmic Trading with Financial Data and Modeling:💰
-
-Statistical Analysis: 📉
-
-Business Analytics: 👔
-
 ## 👨‍💻 Data Science Projects: 
 💹 All of my projects are available at: https://github.com/helenyjx
+
 🚀 Wikipedia AI Bot: Information retrieval made interactive: https://github.com/helenyjx/Wikipedia-AI-Bot-Ultimate-Knowledge-Companion 
+
 🚖 UDriver: A New Ride-Hailing Sub-Business in UD Shuttle: https://helenyjx.wixsite.com/my-site 
+
 🌍 Life Expectancy Analysis: Studied impact of socio-economic factors on life expectancy: https://helenyjx.wordpress.com/2020/10/27/tableau-project/
 
 ## 📫 Contact Me:
