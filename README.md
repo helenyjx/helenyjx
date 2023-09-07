@@ -1,13 +1,17 @@
 # 👋 Hi all, This is Jiaxin Ying (Helen)!
 
+
 ## 🎓 Education:
-1. 🔭 Duke University, Durham, NC: Master of Science in Interdisciplinary Data Science (Expected: May 2024)
+
+🔭 Duke University, Durham, NC: Master of Science in Interdisciplinary Data Science (Expected: May 2024)
    
-3. 🏫  University of Delaware, Newark, DE: Bachelor of Science, Finance (Feb. 2019-May 2022) 
+🏫  University of Delaware, Newark, DE: Bachelor of Science, Finance (Feb. 2019-May 2022) 
 
 ## 🛠 Technical Skills:
 
 Languages: Python 🐍, R 📊, SQL 🛢, Rust 🦀, Bash 🐚, JavaScript 🌐, Wolfram & Mathematica Language 📐
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helenyjx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 Tools: Tableau 📊, Access 🗄, Excel 📈, Docker Hub 🐳, AWS ☁️, Azure ☁️, GitHub 👨‍💻, Linux 🐧, Word 📝, PowerPoint 🎥, Excel 📈, Outlook 📬
 
@@ -53,7 +57,3 @@ Libraries/Frameworks: NumPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, PySpark
 2. Teaching Assistant of the Data Engineering at Duke University. North Carolina, USA (Aug 2023-Present)
 3. Co-founder & Data Scientist at IPFStudy, LLC. North Carolina, USA (Feb 2023-Present)
 4. Assistant Investment & Business Analyst at ZheShang Securities Co. Ltd. Zhejiang, CN (Dec 2018-Jan 2019)
-
-### 🗣️ Languages:
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=helenyjx&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
