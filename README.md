@@ -16,7 +16,21 @@
 
 5. 📄 Office Tools: Word, PowerPoint, Outlook
 
-## 📘 Courses: Machine Learning, Data Engineering, Natural Language Processing, Deep Reinforcement Learning Applications, Algorithmic Trading with Financial Data and Modeling, Statistical Analysis, Business Analytics, and more!
+## 📘 Courses: 
+
+Machine Learning: 🤖
+
+Data Engineering: 🔨📊
+
+Natural Language Processing: 💬📝
+
+Deep Reinforcement Learning Applications: 🎮🤖
+
+Algorithmic Trading with Financial Data and Modeling: 💹💰
+
+Statistical Analysis: 📈📉
+
+Business Analytics: 👔📊
 
 ## 👨‍💻 All of my projects are available at https://github.com/helenyjx
 
