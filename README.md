@@ -4,9 +4,9 @@
 
 ## 🎓 Education:
 
-🔭 Duke University, Durham, NC: Master of Science in Interdisciplinary Data Science (Expected: May 2024)
+🔭 Duke University, Durham, NC: Master of Science in Interdisciplinary Data Science (Aug. 2022 - May 2024)
    
-🏫  University of Delaware, Newark, DE: Bachelor of Science, Finance (Feb. 2019-May 2022) 
+🏫  University of Delaware, Newark, DE: Bachelor of Science, Finance (Feb. 2019 - May 2022) 
 
 ## 🛠 Technical Skills:
 
@@ -55,7 +55,7 @@ Libraries/Frameworks: NumPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, PySpark
 4. 💡 wordpress： https://helenyjx.wordpress.com/author/helenyjx/
 
 ## 💼 Professional Experience:
-1. Data Scientist Capstone Intern at DataOceans. North Carolina, USA (Sep 2023 - Present)
+1. Data Scientist Capstone Intern at DataOceans. North Carolina, USA (Sep. 2023 - May 2024)
 2. Data Analyst & Scientist Intern at Allied Millennial Partners, LLC. New York, USA (May 2023 - Aug. 2023)
 3. Teaching Assistant of the Data Engineering at Duke University. North Carolina, USA (Aug. 2023 - Dec. 2023)
 4. Assistant Investment & Business Analyst at ZheShang Securities Co. Ltd. Zhejiang, CN (Dec. 2018 - Jan. 2019)
