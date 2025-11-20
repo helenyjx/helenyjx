@@ -33,16 +33,6 @@ Libraries/Frameworks: NumPy, Pandas, Scikit-Learn, PyTorch, TensorFlow, PySpark
 * 🎯 Marketing
 * 🧾 Accounting
 
-## ✍️ Data Science Projects: 
-💹 All of my projects are available at: https://github.com/helenyjx
-
-### 🔮 Strong Recommendation:
-🚀 Wikipedia AI Bot: Information retrieval made interactive: https://github.com/helenyjx/Wikipedia-AI-Bot-Ultimate-Knowledge-Companion 
-
-🚖 UDriver: A New Ride-Hailing Sub-Business in UD Shuttle: https://helenyjx.wixsite.com/my-site 
-
-🌍 Life Expectancy Analysis: Studied impact of socio-economic factors on life expectancy: https://helenyjx.wordpress.com/2020/10/27/tableau-project/
-
 ## 📫 Contact Me:
    
 📄 LinkedIn: https://www.linkedin.com/in/jiaxin-ying-helen/
